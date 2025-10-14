@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-#include <stdio.h>
-
 // Constantes para as direções
 #define CIMA "Cima\n"
 #define BAIXO "Baixo\n"
